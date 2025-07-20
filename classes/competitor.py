@@ -26,7 +26,7 @@ class TrampolineLevel(Enum):
     """
     Novice = 1
     Intermediate = 2
-    Intervanced = 3  # Note: This might be a typo for "Intermediate Advanced"
+    Intervanced = 3  
     Advanced = 4
     Elite = 5
     Elite_Pro = 6
