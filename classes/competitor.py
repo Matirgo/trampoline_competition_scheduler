@@ -11,9 +11,9 @@ Classes:
 
 from enum import Enum
 
-
+"""
 class TrampolineLevel(Enum):
-    """
+    '
     Enumeration defining the skill levels for trampoline competitions.
     
     Each level represents increasing difficulty and skill requirements:
@@ -23,13 +23,14 @@ class TrampolineLevel(Enum):
     - Advanced: High skill level with complex routines
     - Elite: Professional competition level
     - Elite_Pro: Highest professional level
-    """
+    '
     Novice = 1
     Intermediate = 2
     Intervanced = 3  # Note: This might be a typo for "Intermediate Advanced"
     Advanced = 4
     Elite = 5
     Elite_Pro = 6
+"""
 
 
 class Competitor:
@@ -54,9 +55,9 @@ class Competitor:
     """
         
     def __init__(self, first_name: str, surname: str, category: bool,
-                 tra_competing: bool = False, tra_level: TrampolineLevel = None,
-                 dmt_competing: bool = False, dmt_level: TrampolineLevel = None,
-                 tum_competing: bool = False, tum_level: TrampolineLevel = None):
+                 tra_competitor: int = 0,
+                 dmt_competitor: int = 0,
+                 tum_competitor: int = 0):
         """
         Initialize a new Competitor instance.
         
@@ -81,16 +82,13 @@ class Competitor:
         self.category = category  # True = female, False = male
         
         # Trampoline (TRA) competition details
-        self.tra_competing = tra_competing
-        self.tra_level = tra_level
+        self.tra_competing = tra_competitor
         
         # Double Mini Trampoline (DMT) competition details
-        self.dmt_competing = dmt_competing
-        self.dmt_level = dmt_level
-        
+        self.dmt_competing = dmt_competitor
+
         # Tumbling (TUM) competition details
-        self.tum_competing = tum_competing
-        self.tum_level = tum_level
+        self.tum_competing = tum_competitor
 
     def __str__(self):
         """
@@ -108,7 +106,7 @@ class Competitor:
             This method has bugs - it references self.is_female and self.sur_name 
             which don't exist. Should use self.category and self.surname instead.
         """
-        # FIXME: This method has attribute errors
+
         # Should use self.category instead of self.is_female
         # Should use self.surname instead of self.sur_name
         gender = "female" if self.category else "male"  # Fixed: use self.category
