@@ -23,7 +23,9 @@ print(f"After adding Carol: {len(competitors)} competitors")
 
 # Test removing
 competitors.remove(bob)
-print(f"After removing Bob: {len(competitors)} competitors")
+competitors.remove(alice)
+competitors.remove(carol)
+print(f"After removing competitor: {len(competitors)} competitors")
 
 # Show who's left
 print("\nRemaining competitors:")
