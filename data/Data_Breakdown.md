@@ -8,13 +8,10 @@ TrampOnline produces two separate datasets for any given competition:
         - Categories: Men, and Women.
     - **DMT:**
         - Levels: 1, 2, 3, 4, 5, and 6.
-        - Categories: ?
     - **TUM:**
         - Levels: 1, 2, 3, and 4.
-        - Categories: ?
     - **TRS:**
         - Levels: 1, 2, and 3.
-        - Categories: ?
 
 ## 2. Judge Dataset
 - Contains information on judges, including their names, club, level abilities to judge across all TRI judging roles (recorder, marshal, execution, difficulty, synchro, HD, time of flight (ToF), and chair), ability to judge DMT and/or TUM, judging role preferences for TRI only, judging qualifications for all disciplines, the relevant competition, judging availability, and additional notes.
