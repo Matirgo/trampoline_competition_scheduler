@@ -117,46 +117,50 @@ Most participants of the competition will likely be in both datasets, however, t
 **Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
 
 ### Team
-**Attribute Name:**
+**Attribute Name:** Team.
 
-**Attribute Description:**
+**Attribute Description:** Indicates whether or not the competitor is part of a team for their club, and if they are, what club that is.
 
-**Possible Attribute Values:**
+**Possible Attribute Values:** Any Latin capital letter from A - Z.
 
-**Attribute Data Type:**
+**Attribute Data Type:** String (str).
 
 ### Team_Category
-**Attribute Name:**
+**Attribute Name:** Team_Category.
 
-**Attribute Description:**
+**Attribute Description:** Describes the type of team a competitor is on, be it a regular team, a DMT team, etc. Allows the competition organisers to separate these teams when calculating results.
 
-**Possible Attribute Values:**
+**Possible Attribute Values:** Teams, or DMT Teams.
 
-**Attribute Data Type:**
+**Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
 
 ### Guest
-**Attribute Name:**
+**Attribute Name:** Guest.
 
-**Attribute Description:**
+**Attribute Description:** Indicates whether or not the competitor is a guest competitor for their club. This will either include or exclude their scores from being calculated for who wins the competition cup, shield, etc.
 
-**Possible Attribute Values:**
+**Possible Attribute Values:** 0, or 1.
+- 0 indicates that the competitor is not a guest.
+- 1 indicates that the competitor is a guest.
 
-**Attribute Data Type:**
+**Attribute Data Type:** Boolean (bool).
 
 ### flight
-**Attribute Name:**
+**Attribute Name:** flight.
 
-**Attribute Description:**
+**Attribute Description:** Automatically assigned values in-line with the *"StartOrder"* values. Determines what flight the competitor should be on for their category. Is not currently widely used in the Irish student trampolining circuit.
 
-**Possible Attribute Values:**
+**Possible Attribute Values:** 1 - 99.
 
-**Attribute Data Type:**
+**Attribute Data Type:** Integer (int).
 
 ### photo_consent
-**Attribute Name:**
+**Attribute Name:** photo_consent.
 
-**Attribute Description:**
+**Attribute Description:** Indicates whether or not the participant has consented to have photos of them taken at the competition.
 
-**Possible Attribute Values:**
+**Possible Attribute Values:** 0, or 1.
+- 0 indicates that the competitor has not consented to their photo being taken.
+- 1 indicates that the competitor has consented to their photo being taken.
 
-**Attribute Data Type:**
+**Attribute Data Type:** Boolean (bool).
