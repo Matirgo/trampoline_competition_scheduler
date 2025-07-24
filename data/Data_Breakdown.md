@@ -1,5 +1,5 @@
 # Data Breakdown
-TrampOnline produces two separate datasets for any given competition:
+TrampOnline produces two separate datasets for any given competition.
 
 ## 1. Competitor Dataset
 - Contains information on competitors, including their names, club, trampoline (TRI), double-mini trampoline (DMT), tumbling (TUM), and trampoline synchro (TRS) levels, categories, and whether or not they are on a team and/or are a guest.
