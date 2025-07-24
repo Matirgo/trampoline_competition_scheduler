@@ -25,75 +25,79 @@ Most participants of the competition will likely be in both datasets, however, t
 
 ## Competitor Dataset Breakdown
 
-### ID
-**Attribute Name:** ID.
+### *ID*
+- **Attribute Name:** ID.
 
-**Attribute Description:** Five-digit number that acts as the primary key for the dataset. For example, it allows for competitors to have the same name and club. TrampOnline makes use of this to allow the same person to enter multiple disciplines.
+- **Attribute Description:** Five-digit number that acts as the primary key for the dataset. For example, it allows for competitors to have the same name and club. TrampOnline makes use of this to allow the same person to enter multiple disciplines.
 
-**Possible Attribute Values:** 00000 - 99999.
+- **Possible Attribute Values:** 00000 - 99999.
 
-**Attribute Data Type:** Integer (int).
+- **Attribute Data Type:** Integer (int).
 
-### Name
-**Attribute Name:** Name.
+---
 
-**Attribute Description:** The full name of a competitor.
+### *Name*
+- **Attribute Name:** Name.
 
-**Possible Attribute Values:** Any combination of Latin letters and common symbols (e.g. ', -, etc.). TrampOnline encodes said symbols. Unclear if numbers can be passed in.
+- **Attribute Description:** The full name of a competitor.
 
-**Attribute Data Type:** String (str).
+- **Possible Attribute Values:** Any combination of Latin letters and common symbols (e.g. ', -, etc.). TrampOnline encodes said symbols. Unclear if numbers can be passed in.
 
-### Club
-**Attribute Name:** Club.
+- **Attribute Data Type:** String (str).
 
-**Attribute Description:** The name or abbreviation of the club, which the competitor will represent at the competition.
+---
 
-**Possible Attribute Values:** Any combination of Latin letters.
+### *Club*
+- **Attribute Name:** Club.
 
-**Attribute Data Type:** String (str).
+- **Attribute Description:** The name or abbreviation of the club, which the competitor will represent at the competition.
 
-### ClassName
-**Attribute Name:** ClassName.
+- **Possible Attribute Values:** Any combination of Latin letters.
 
-**Attribute Description:** The level of the competitor, followed by the category under which they'll compete. The levels are different depending on the discipline, and category is not present outside of TRI. Competitors may have multiple entries in the dataset if they have signed up to compete in more than one discipline.
+- **Attribute Data Type:** String (str).
 
-**Possible Attribute Values:** There are unique possible attribute values depending on the discipline the ClassName is set to. These are listed below:
+### *ClassName*
+- **Attribute Name:** ClassName.
 
-- **TRI:** Takes both level and category inputs. There are seven unique levels, and two unique categories. The *"Disability (any category)"* level usually does not take *"Men"* and *"Women"* categories, so the combination of levels and categories amounts to thirteen possible combinations.
-    - **Possible levels:**
-        1. Novice.
-        2. Intermediate.
-        3. Intervanced.
-        4. Advanced.
-        5. Elite.
-        6. Elite-Pro.
-        7. Disability (any category).
-            - **Note:** The *"Disability (any category)"* is manually sorted into levels post hoc if required. It is also usually not a large enough category to justify splitting into Men and Women.
-    - **Possible categories:**
-        1. Men.
-        2. Women.
+- **Attribute Description:** The level of the competitor, followed by the category under which they'll compete. The levels are different depending on the discipline, and category is not present outside of TRI. Competitors may have multiple entries in the dataset if they have signed up to compete in more than one discipline.
 
-- **DMT:** Takes only levels, no categories. There are six unique DMT levels.
-    1. DMT Level 1.
-    2. DMT Level 2.
-    3. DMT Level 3.
-    4. DMT Level 4.
-    5. DMT Level 5.
-    6. DMT Level 6.
+- **Possible Attribute Values:** There are unique possible attribute values depending on the discipline the ClassName is set to. These are listed below:
 
-- **TUM:** Takes only levels, no categories. There are four unique TUM levels.
-    1. Tumbling Level 1.
-    2. Tumbling Level 2.
-    3. Tumbling Level 3.
-    4. Tumbling Level 4.
+    - **TRI:** Takes both level and category inputs. There are seven unique levels, and two unique categories. The *"Disability (any category)"* level usually does not take *"Men"* and *"Women"* categories, so the combination of levels and categories amounts to thirteen possible combinations.
+        - **Possible levels:**
+            1. Novice.
+            2. Intermediate.
+            3. Intervanced.
+            4. Advanced.
+            5. Elite.
+            6. Elite-Pro.
+            7. Disability (any category).
+                - **Note:** The *"Disability (any category)"* is manually sorted into levels post hoc if required. It is also usually not a large enough category to justify splitting into Men and Women.
+        - **Possible categories:**
+            1. Men.
+            2. Women.
+    
+    - **DMT:** Takes only levels, no categories. There are six unique DMT levels.
+        1. DMT Level 1.
+        2. DMT Level 2.
+        3. DMT Level 3.
+        4. DMT Level 4.
+        5. DMT Level 5.
+        6. DMT Level 6.
+    
+    - **TUM:** Takes only levels, no categories. There are four unique TUM levels.
+        1. Tumbling Level 1.
+        2. Tumbling Level 2.
+        3. Tumbling Level 3.
+        4. Tumbling Level 4.
+    
+    - **TRS:** Takes only levels, no categories. There are four unique TRS levels.
+        1. Synchro Level 1.
+        2. Synchro Level 2.
+        3. Synchro Level 3.
+        4. Disability - any category (SYN).
 
-- **TRS:** Takes only levels, no categories. There are four unique TRS levels.
-    1. Synchro Level 1.
-    2. Synchro Level 2.
-    3. Synchro Level 3.
-    4. Disability - any category (SYN).
-
-**Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
+- **Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
 
 ### StartOrder
 **Attribute Name:** StartOrder.
@@ -104,6 +108,8 @@ Most participants of the competition will likely be in both datasets, however, t
 
 **Attribute Data Type:** Integer (int).
 
+---
+
 ### Discipline
 **Attribute Name:** Discipline.
 
@@ -112,6 +118,8 @@ Most participants of the competition will likely be in both datasets, however, t
 **Possible Attribute Values:** TRI, DMT, TUM, or TRS.
 
 **Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
+
+---
 
 ### Team
 **Attribute Name:** Team.
