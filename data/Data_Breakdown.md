@@ -182,8 +182,6 @@ Most participants of the competition will likely be in both datasets, however, t
 
 - **Attribute Data Type:** Boolean (bool).
 
----
-
 ## Judge Dataset Breakdown
 
 ### *id*
@@ -484,4 +482,4 @@ Most participants of the competition will likely be in both datasets, however, t
 
 - **Possible Attribute Values:** Any type of string, but usually *"N/A"* or a variant of it.
 
--**Attribute Data Type:** String (str).
+- **Attribute Data Type:** String (str).
