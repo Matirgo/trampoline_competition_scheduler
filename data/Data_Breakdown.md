@@ -30,25 +30,36 @@ Most participants of the competition will likely be in both datasets, however, t
 
 ### ID
 **Attribute Name:** ID.
+
 **Attribute Description:** Five-digit number that acts as the primary key for the dataset. For example, it allows for competitors to have the same name and club. TrampOnline makes use of this to allow the same person to enter multiple disciplines.
+
 **Possible Attribute Values:** 00000 - 99999.
+
 **Attribute Data Type:** Integer (int).
 
 ### Name
 **Attribute Name:** Name.
+
 **Attribute Description:** The full name of a competitor.
+
 **Possible Attribute Values:** Any combination of Latin letters and common symbols (e.g. ', -, etc.). TrampOnline encodes said symbols. Unclear if numbers can be passed in.
+
 **Attribute Data Type:** String (str).
 
 ### Club
 **Attribute Name:** Club.
+
 **Attribute Description:** The name or abbreviation of the club, which the competitor will represent at the competition.
+
 **Possible Attribute Values:** Any combination of Latin letters.
+
 **Attribute Data Type:** String (str).
 
 ### ClassName
 **Attribute Name:** ClassName.
+
 **Attribute Description:** The level of the competitor, followed by the category under which they'll compete. The levels are different depending on the discipline, and category is not present outside of TRI. Competitors may have multiple entries in the dataset if they have signed up to compete in more than one discipline.
+
 **Possible Attribute Values:** There are unique possible attribute values depending on the discipline the ClassName is set to. These are listed below:
 
 - **TRI:** Takes both level and category inputs. There are seven unique levels, and two unique categories. The *"Disability (any category)"* level usually does not take *"Men"* and *"Women"* categories, so the combination of levels and categories amounts to thirteen possible combinations.
@@ -89,42 +100,63 @@ Most participants of the competition will likely be in both datasets, however, t
 
 ### StartOrder
 **Attribute Name:** StartOrder.
+
 **Attribute Description:** TrampOnline's automatically generated starting order for use with panels. This is currently not widely used in the Irish student trampolining circuit.
+
 **Possible Attribute Values:** 1 - 9999.
+
 **Attribute Data Type:** Integer (int).
 
 ### Discipline
 **Attribute Name:** Discipline.
-**Attribute Description:** The specific event that the competitor has signed up for. There are four unique events that competitors sign up for via TrampOnline, and those are Trampoline (TRI), Double-Mini Trampoline (DMT), Tumbling (TUM), and Synchro (TRS). Competitors may sign up to TRI, DMT, and TUM only once at their specified level, and may sign up to TRS more than once but with different synchro partners. The total amount of signups they are allowed depends on the competition organisers, but is usually capped at two entries.
+
+**Attribute Description:** The specific event that the competitor has signed up for. There are four unique events that competitors sign up for via TrampOnline, and those are trampoline (TRI), double-mini trampoline (DMT), tumbling (TUM), and synchro (TRS). Competitors may sign up to TRI, DMT, and TUM only once at their specified level, and may sign up to TRS more than once but with different synchro partners. The total amount of signups they are allowed depends on the competition organisers, but is usually capped at two entries.
+
 **Possible Attribute Values:** TRI, DMT, TUM, or TRS.
+
 **Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
 
 ### Team
 **Attribute Name:**
+
 **Attribute Description:**
+
 **Possible Attribute Values:**
+
 **Attribute Data Type:**
 
 ### Team_Category
 **Attribute Name:**
+
 **Attribute Description:**
+
 **Possible Attribute Values:**
+
 **Attribute Data Type:**
 
 ### Guest
 **Attribute Name:**
+
 **Attribute Description:**
+
 **Possible Attribute Values:**
+
 **Attribute Data Type:**
 
 ### flight
 **Attribute Name:**
+
 **Attribute Description:**
+
 **Possible Attribute Values:**
+
 **Attribute Data Type:**
 
 ### photo_consent
 **Attribute Name:**
+
 **Attribute Description:**
+
 **Possible Attribute Values:**
+
 **Attribute Data Type:**
