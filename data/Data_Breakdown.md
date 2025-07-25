@@ -54,7 +54,7 @@ Most participants of the competition will likely be in both datasets, however, t
 
 - **Possible Attribute Values:** Any combination of Latin letters.
 
-- **Attribute Data Type:** String (str).
+- **Attribute Data Type:** String (str), but expressed as a categorical variable in Pandas.
 
 ---
 
@@ -167,7 +167,7 @@ Most participants of the competition will likely be in both datasets, however, t
 
 - **Possible Attribute Values:** 1 - 99.
 
-- **Attribute Data Type:** Integer (int).
+- **Attribute Data Type:** Float, as some values are empty and thus won't work as an integer data type.
 
 ---
 
