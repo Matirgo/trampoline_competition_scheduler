@@ -11,3 +11,16 @@ ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,pho
 12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,False,1.0,True
 12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,True,1.0,True
 12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,False,1.0,True
+12999,Antwerp Flazgod,Exeter,Novice Men,2,TRI,,,False,,True
+13001,Antwerp Flazgod,DCU,Novice Men,3,TRI,,,False,1.0,True
+13005,Derbiled Áed,DCU,DMT Level 1,33,DMT,,,False,,True
+13010,Anwar Fateh,MU,DMT Level 4,23,DMT,,,False,,True
+13020,Karpos Pankratios,QUB,DMT Level 6,29,DMT,,,False,1.0,True
+13025,Sören Shiva,TCD,DMT Level 2,21,DMT,,,False,1.0,True
+13029,Yolotzin Thibaut,UCC,DMT Level 5,14,DMT,,,False,1.0,True
+13040,Bjoern Pierrick,UCC,DMT Level 3,2,DMT,,,False,,True
+13045,Shoshanna Assol,UL,Tumbling Level 2,99,TUM,,,False,,True
+13048,Akma 2,TCD,Tumbling Level 4,14,TUM,,,True,2.0,True
+13052,Echo Longray,TCD,Tumbling Level 3,11,TUM,,,False,2.0,True
+13055,Antwerp Flazgod,Exeter,Tumbling Level 1,5,TUM,,,False,2.0,True
+13056,Lirana Willowshade,UCC,Intervanced Women,37,TRI,,,True,,True

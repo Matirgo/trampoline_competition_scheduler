@@ -11,3 +11,16 @@ ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,pho
 12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,0,1.0,1
 12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,1,1.0,1
 12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,0,1.0,1
+12999,Antwerp Flazgod,Exeter,Novice Men,2,TRI,,,0,,1
+13001,Antwerp Flazgod,DCU,Novice Men,3,TRI,,,0,1.0,1
+13005,Derbiled Áed,DCU,DMT Level 1,33,DMT,,,0,,1
+13010,Anwar Fateh,MU,DMT Level 4,23,DMT,,,0,,1
+13020,Karpos Pankratios,QUB,DMT Level 6,29,DMT,,,0,1.0,1
+13025,Sören Shiva,TCD,DMT Level 2,21,DMT,,,0,1.0,1
+13029,Yolotzin Thibaut,UCC,DMT Level 5,14,DMT,,,0,1.0,1
+13040,Bjoern Pierrick,UCC,DMT Level 3,2,DMT,,,0,,1
+13045,Shoshanna Assol,UL,Tumbling Level 2,99,TUM,,,0,,1
+13048,Akma 2,TCD,Tumbling Level 4,14,TUM,,,1,2.0,1
+13052,Echo Longray,TCD,Tumbling Level 3,11,TUM,,,0,2.0,1
+13055,Antwerp Flazgod,Exeter,Tumbling Level 1,5,TUM,,,0,2.0,1
+13056,Lirana Willowshade,UCC,Intervanced Women,37,TRI,,,1,,1
