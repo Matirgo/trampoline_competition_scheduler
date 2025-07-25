@@ -1,0 +1,13 @@
+ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,photo_consent
+10134,Derbiled Áed,DCU,Novice Women,20,TRI,,,False,1.0,True
+10304,Anwar Fateh,MU,Novice Men,12,TRI,,,False,1.0,True
+10403,Karpos Pankratios,QUB,Intermediate Men,1,TRI,,,False,1.0,True
+10999,Sören Shiva,TCD,Intervanced Men,45,TRI,A,,False,,True
+11568,Yolotzin Thibaut,UCC,Intermediate Women,65,TRI,,,False,,True
+11783,Aäron Óscar,UCD,Advanced Men,42,TRI,,,False,1.0,True
+11900,Brianne Hagano,UL,Intervanced Women,76,TRI,,,False,1.0,True
+12483,Désirée Godofredo,TCD,Advanced Women,10,TRI,A,,False,1.0,True
+12702,Bjoern Pierrick,UCC,Elite Men,23,TRI,,,False,,True
+12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,False,1.0,True
+12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,True,1.0,True
+12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,False,1.0,True
