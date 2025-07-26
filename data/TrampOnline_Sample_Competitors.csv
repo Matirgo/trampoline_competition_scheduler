@@ -1,26 +1,83 @@
 ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,photo_consent
-10134,Derbiled Áed,DCU,Novice Women,20,TRI,,,0,1.0,1
-10304,Anwar Fateh,MU,Novice Men,12,TRI,,,0,1.0,1
-10403,Karpos Pankratios,QUB,Intermediate Men,1,TRI,,,0,1.0,1
-10999,Sören Shiva,TCD,Intervanced Men,45,TRI,A,,0,,1
-11568,Yolotzin Thibaut,UCC,Intermediate Women,65,TRI,,,0,,1
-11783,Aäron Óscar,UCD,Advanced Men,42,TRI,,,0,1.0,1
-11900,Brianne Hagano,UL,Intervanced Women,76,TRI,,,0,1.0,1
-12483,Désirée Godofredo,TCD,Advanced Women,10,TRI,A,,0,1.0,1
-12702,Bjoern Pierrick,UCC,Elite Men,23,TRI,,,0,,1
-12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,0,1.0,1
-12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,1,1.0,1
-12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,0,1.0,1
-12999,Antwerp Flazgod,Exeter,Novice Men,2,TRI,,,0,,1
-13001,Antwerp Flazgod,DCU,Novice Men,3,TRI,,,0,1.0,1
-13005,Derbiled Áed,DCU,DMT Level 1,33,DMT,,,0,,1
-13010,Anwar Fateh,MU,DMT Level 4,23,DMT,,,0,,1
-13020,Karpos Pankratios,QUB,DMT Level 6,29,DMT,,,0,1.0,1
-13025,Sören Shiva,TCD,DMT Level 2,21,DMT,,,0,1.0,1
-13029,Yolotzin Thibaut,UCC,DMT Level 5,14,DMT,,,0,1.0,1
-13040,Bjoern Pierrick,UCC,DMT Level 3,2,DMT,,,0,,1
-13045,Shoshanna Assol,UL,Tumbling Level 2,99,TUM,,,0,,1
-13048,Akma 2,TCD,Tumbling Level 4,14,TUM,,,1,2.0,1
-13052,Echo Longray,TCD,Tumbling Level 3,11,TUM,,,0,2.0,1
-13055,Antwerp Flazgod,Exeter,Tumbling Level 1,5,TUM,,,0,2.0,1
-13056,Lirana Willowshade,UCC,Intervanced Women,37,TRI,,,1,,1
+10134.0,Derbiled Áed,DCU,Novice Women,20.0,TRI,,,0.0,1.0,1.0
+10304.0,Anwar Fateh,MU,Novice Men,12.0,TRI,,,0.0,1.0,1.0
+10403.0,Karpos Pankratios,QUB,Intermediate Men,1.0,TRI,,,0.0,1.0,1.0
+10999.0,Sören Shiva,TCD,Intervanced Men,45.0,TRI,A,,0.0,,1.0
+11568.0,Yolotzin Thibaut,UCC,Intermediate Women,65.0,TRI,,,0.0,,1.0
+11783.0,Aäron Óscar,UCD,Advanced Men,42.0,TRI,,,0.0,1.0,1.0
+11900.0,Brianne Hagano,UL,Intervanced Women,76.0,TRI,,,0.0,1.0,1.0
+12483.0,Désirée Godofredo,TCD,Advanced Women,10.0,TRI,A,,0.0,1.0,1.0
+12702.0,Bjoern Pierrick,UCC,Elite Men,23.0,TRI,,,0.0,,1.0
+12881.0,Shoshanna Assol,UL,Elite Women,32.0,TRI,,,0.0,1.0,1.0
+12969.0,Akma 2,TCD,Elite-Pro Men,69.0,TRI,A,,1.0,1.0,1.0
+12977.0,Echo Longray,TCD,Elite-Pro Women,99.0,TRI,A,,0.0,1.0,1.0
+12999.0,Antwerp Flazgod,Exeter,Novice Men,2.0,TRI,,,0.0,,1.0
+13001.0,Antwerp Flazgod,DCU,Novice Men,3.0,TRI,,,0.0,1.0,1.0
+13005.0,Derbiled Áed,DCU,DMT Level 1,33.0,DMT,,,0.0,,1.0
+13010.0,Anwar Fateh,MU,DMT Level 4,23.0,DMT,,,0.0,,1.0
+13020.0,Karpos Pankratios,QUB,DMT Level 6,29.0,DMT,,,0.0,1.0,1.0
+13025.0,Sören Shiva,TCD,DMT Level 2,21.0,DMT,,,0.0,1.0,1.0
+13029.0,Yolotzin Thibaut,UCC,DMT Level 5,14.0,DMT,,,0.0,1.0,1.0
+13040.0,Bjoern Pierrick,UCC,DMT Level 3,2.0,DMT,,,0.0,,1.0
+13045.0,Shoshanna Assol,UL,Tumbling Level 2,99.0,TUM,,,0.0,,1.0
+13048.0,Akma 2,TCD,Tumbling Level 4,14.0,TUM,,,1.0,2.0,1.0
+13052.0,Echo Longray,TCD,Tumbling Level 3,11.0,TUM,,,0.0,2.0,1.0
+13055.0,Antwerp Flazgod,Exeter,Tumbling Level 1,5.0,TUM,,,0.0,2.0,1.0
+13056.0,Lirana Willowshade,UCC,Intervanced Women,37.0,TRI,,,1.0,,1.0
+,Test1,UCC,Novice Men,,TRI,,,,,
+,Test2,TCD,Novice Men,,TRI,,,,,
+,Test3,DCU,Novice Men,,TRI,,,,,
+,Test4,TCD,Novice Men,,TRI,,,,,
+,Test5,TCD,Novice Men,,TRI,,,,,
+,Test6,UCD,Novice Men,,TRI,,,,,
+,Test7,UCD,Novice Men,,TRI,,,,,
+,Test8,UL,Novice Men,,TRI,,,,,
+,Test9,UCC,Novice Men,,TRI,,,,,
+,Test10,UCD,Novice Men,,TRI,,,,,
+,TEst11,UCC,Novice Men,,TRI,,,,,
+,Test12,UCD,Novice Men,,TRI,,,,,
+,Test13,MU,Novice Men,,TRI,,,,,
+,Test14,TCD,Novice Men,,TRI,,,,,
+,Test15,DCU,Novice Men,,TRI,,,,,
+,Test1,UCC,Intermediate Men,,TRI,,,,,
+,Test2,TCD,Intermediate Men,,TRI,,,,,
+,Test3,DCU,Intermediate Men,,TRI,,,,,
+,Test4,TCD,Intermediate Men,,TRI,,,,,
+,Test5,TCD,Intermediate Men,,TRI,,,,,
+,Test6,UCD,Intermediate Men,,TRI,,,,,
+,Test7,UCD,Intermediate Men,,TRI,,,,,
+,Test8,UL,Intermediate Men,,TRI,,,,,
+,Test9,UCC,Intermediate Men,,TRI,,,,,
+,Test10,UCD,Intermediate Men,,TRI,,,,,
+,TEst11,UCC,Intermediate Men,,TRI,,,,,
+,Test12,UCD,Intermediate Men,,TRI,,,,,
+,Test13,UCC,Intermediate Men,,TRI,,,,,
+,Test14,TCD,Intermediate Men,,TRI,,,,,
+,Test15,DCU,Intermediate Men,,TRI,,,,,
+,Test16,TCD,Intermediate Men,,TRI,,,,,
+,Test17,TCD,Intermediate Men,,TRI,,,,,
+,Test18,UCD,Intermediate Men,,TRI,,,,,
+,Test19,UCD,Intermediate Men,,TRI,,,,,
+,Test20,UL,Intermediate Men,,TRI,,,,,
+,Test21,UCC,Intermediate Men,,TRI,,,,,
+,Test22,UCD,Intermediate Men,,TRI,,,,,
+,TEst23,UCC,Intermediate Men,,TRI,,,,,
+,Test24,UCD,Intermediate Men,,TRI,,,,,
+,Test25,MU,Intermediate Men,,TRI,,,,,
+,Test26,TCD,Intermediate Men,,TRI,,,,,
+,Test27,DCU,Intermediate Men,,TRI,,,,,
+,Test1,UCC,Novice Women,,TRI,,,,,
+,Test2,TCD,Novice Women,,TRI,,,,,
+,Test3,DCU,Novice Women,,TRI,,,,,
+,Test4,TCD,Novice Women,,TRI,,,,,
+,Test5,TCD,Novice Women,,TRI,,,,,
+,Test6,UCD,Novice Women,,TRI,,,,,
+,Test7,UCD,Novice Women,,TRI,,,,,
+,Test8,UL,Novice Women,,TRI,,,,,
+,Test9,UCC,Novice Women,,TRI,,,,,
+,Test10,UCD,Novice Women,,TRI,,,,,
+,TEst11,UCC,Novice Women,,TRI,,,,,
+,Test12,UCD,Novice Women,,TRI,,,,,
+,Test13,MU,Novice Women,,TRI,,,,,
+,Test14,TCD,Novice Women,,TRI,,,,,
+,Test15,TCD,Novice Women,,TRI,,,,,
