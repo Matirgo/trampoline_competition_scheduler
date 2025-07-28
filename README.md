@@ -6,7 +6,9 @@ Repository for a trampoline gymnastics competition scheduler suitable for automa
 The current version of the programme is capable of doing the following operations.
 - Import data from a .csv file.
 - Organise competitors by trampoline level and category.
-- Export this organised list in both .csv format, and also in a premitively stylised xlsx (Excel) format.
+  - NOTE: This is now done for individual trampoline, DMT, tumbling, and synchronised trampoline in the data/import_and_manipulation branch.
+- Export this organised list in both .csv format, and also in a premitively stylised .xlsx (Excel) format.
+  - NOTE: The stylings have become a lot more advanced in the data/import_and_manipulation branch.
 
 ### Next Major Steps
 The current version only works with trampoline competitors, and is not based on TrampOnline formatting. The below steps outline the most important updates to follow.
@@ -14,6 +16,9 @@ The current version only works with trampoline competitors, and is not based on 
   - The category column must be merged with the trampoline level column.
   - The first name and surname columns must be merged into one name column.
   - New columns for clubs and teams should be added.
+
+As of 28/07/2025: The above steps have been completed in the data/import_and_manipulation branch.
+
 - The programme currently does not take into account judges and what they are able or not able to judge.
   - The dataset must be updated to include judging information.
 
