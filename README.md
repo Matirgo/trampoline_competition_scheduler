@@ -24,3 +24,10 @@ As of 28/07/2025: The above steps have been completed in the data/import_and_man
 
 ## Future
 Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc.
+
+## Known Issues
+- Flight formatting
+  - The line boxes surrounding each flight tend to not fully encapsulate most groups.
+- Low entries formatting glitch.
+  - If there are no more than two competitors in any category for a given discipline, the flight formatting code does not work. Once three competitors are present in the same category in that discipline, this problem appears to disappear.
+- The programme does not take into account how to handle special characters, such as fadas and apostrophes. Code to account for this must be added.
