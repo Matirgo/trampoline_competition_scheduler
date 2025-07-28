@@ -1,102 +1,118 @@
 ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,photo_consent
-10134.0,Derbiled Áed,DCU,Novice Women,20.0,TRI,,,0.0,1.0,1.0
-10304.0,Anwar Fateh,MU,Novice Men,12.0,TRI,,,0.0,1.0,1.0
-10403.0,Karpos Pankratios,QUB,Intermediate Men,1.0,TRI,,,0.0,1.0,1.0
-10999.0,Sören Shiva,TCD,Intervanced Men,45.0,TRI,A,,0.0,,1.0
-11568.0,Yolotzin Thibaut,UCC,Intermediate Women,65.0,TRI,,,0.0,,1.0
-11783.0,Aäron Óscar,UCD,Advanced Men,42.0,TRI,,,0.0,1.0,1.0
-11900.0,Brianne Hagano,UL,Intervanced Women,76.0,TRI,,,0.0,1.0,1.0
-12483.0,Désirée Godofredo,TCD,Advanced Women,10.0,TRI,A,,0.0,1.0,1.0
-12702.0,Bjoern Pierrick,UCC,Elite Men,23.0,TRI,,,0.0,,1.0
-12881.0,Shoshanna Assol,UL,Elite Women,32.0,TRI,,,0.0,1.0,1.0
-12969.0,Akma 2,TCD,Elite-Pro Men,69.0,TRI,A,,1.0,1.0,1.0
-12977.0,Echo Longray,TCD,Elite-Pro Women,99.0,TRI,A,,0.0,1.0,1.0
-12999.0,Antwerp Flazgod,Exeter,Novice Men,2.0,TRI,,,0.0,,1.0
-13001.0,Antwerp Flazgod,DCU,Novice Men,3.0,TRI,,,0.0,1.0,1.0
-13005.0,Derbiled Áed,DCU,DMT Level 1,33.0,DMT,,,0.0,,1.0
-13010.0,Anwar Fateh,MU,DMT Level 4,23.0,DMT,,,0.0,,1.0
-13020.0,Karpos Pankratios,QUB,DMT Level 6,29.0,DMT,,,0.0,1.0,1.0
-13025.0,Sören Shiva,TCD,DMT Level 2,21.0,DMT,,,0.0,1.0,1.0
-13029.0,Yolotzin Thibaut,UCC,DMT Level 5,14.0,DMT,,,0.0,1.0,1.0
-13040.0,Bjoern Pierrick,UCC,DMT Level 3,2.0,DMT,,,0.0,,1.0
-13045.0,Shoshanna Assol,UL,Tumbling Level 2,99.0,TUM,,,0.0,,1.0
-13048.0,Akma 2,TCD,Tumbling Level 4,14.0,TUM,,,1.0,2.0,1.0
-13052.0,Echo Longray,TCD,Tumbling Level 3,11.0,TUM,,,0.0,2.0,1.0
-13055.0,Antwerp Flazgod,Exeter,Tumbling Level 1,5.0,TUM,,,0.0,2.0,1.0
-13056.0,Lirana Willowshade,UCC,Intervanced Women,37.0,TRI,,,1.0,,1.0
-,Test1,UCC,Novice Men,,TRI,,,,,
-,Test2,TCD,Novice Men,,TRI,,,,,
-,Test3,DCU,Novice Men,,TRI,,,,,
-,Test4,TCD,Novice Men,,TRI,,,,,
-,Test5,TCD,Novice Men,,TRI,,,,,
-,Test6,UCD,Novice Men,,TRI,,,,,
-,Test7,UCD,Novice Men,,TRI,,,,,
-,Test8,UL,Novice Men,,TRI,,,,,
-,Test9,UCC,Novice Men,,TRI,,,,,
-,Test10,UCD,Novice Men,,TRI,,,,,
-,TEst11,UCC,Novice Men,,TRI,,,,,
-,Test12,UCD,Novice Men,,TRI,,,,,
-,Test13,MU,Novice Men,,TRI,,,,,
-,Test14,TCD,Novice Men,,TRI,,,,,
-,Test15,DCU,Novice Men,,TRI,,,,,
-,Test1,UCC,Intermediate Men,,TRI,,,,,
-,Test2,TCD,Intermediate Men,,TRI,,,,,
-,Test3,DCU,Intermediate Men,,TRI,,,,,
-,Test4,TCD,Intermediate Men,,TRI,,,,,
-,Test5,TCD,Intermediate Men,,TRI,,,,,
-,Test6,UCD,Intermediate Men,,TRI,,,,,
-,Test7,UCD,Intermediate Men,,TRI,,,,,
-,Test8,UL,Intermediate Men,,TRI,,,,,
-,Test9,UCC,Intermediate Men,,TRI,,,,,
-,Test10,UCD,Intermediate Men,,TRI,,,,,
-,TEst11,UCC,Intermediate Men,,TRI,,,,,
-,Test12,UCD,Intermediate Men,,TRI,,,,,
-,Test13,UCC,Intermediate Men,,TRI,,,,,
-,Test14,TCD,Intermediate Men,,TRI,,,,,
-,Test15,DCU,Intermediate Men,,TRI,,,,,
-,Test16,TCD,Intermediate Men,,TRI,,,,,
-,Test17,TCD,Intermediate Men,,TRI,,,,,
-,Test18,UCD,Intermediate Men,,TRI,,,,,
-,Test19,UCD,Intermediate Men,,TRI,,,,,
-,Test20,UL,Intermediate Men,,TRI,,,,,
-,Test21,UCC,Intermediate Men,,TRI,,,,,
-,Test22,UCD,Intermediate Men,,TRI,,,,,
-,TEst23,UCC,Intermediate Men,,TRI,,,,,
-,Test24,UCD,Intermediate Men,,TRI,,,,,
-,Test25,MU,Intermediate Men,,TRI,,,,,
-,Test26,TCD,Intermediate Men,,TRI,,,,,
-,Test27,DCU,Intermediate Men,,TRI,,,,,
-,Test1,UCC,Novice Women,,TRI,,,,,
-,Test2,TCD,Novice Women,,TRI,,,,,
-,Test3,DCU,Novice Women,,TRI,,,,,
-,Test4,TCD,Novice Women,,TRI,,,,,
-,Test5,TCD,Novice Women,,TRI,,,,,
-,Test6,UCD,Novice Women,,TRI,,,,,
-,Test7,UCD,Novice Women,,TRI,,,,,
-,Test8,UL,Novice Women,,TRI,,,,,
-,Test9,UCC,Novice Women,,TRI,,,,,
-,Test10,UCD,Novice Women,,TRI,,,,,
-,TEst11,UCC,Novice Women,,TRI,,,,,
-,Test12,UCD,Novice Women,,TRI,,,,,
-,Test13,MU,Novice Women,,TRI,,,,,
-,Test14,TCD,Novice Women,,TRI,,,,,
-,Test15,TCD,Novice Women,,TRI,,,,,
-,Test1,UCC,DMT Level 1,,DMT,,,,,
-,Test2,TCD,DMT Level 1,,DMT,,,,,
-,Test3,DCU,DMT Level 1,,DMT,,,,,
-,Test4,TCD,DMT Level 1,,DMT,,,,,
-,Test5,TCD,DMT Level 1,,DMT,,,,,
-,Test6,UCD,DMT Level 1,,DMT,,,,,
-,Test7,UCD,DMT Level 1,,DMT,,,,,
-,Test8,UL,DMT Level 1,,DMT,,,,,
-,Test9,UCC,DMT Level 1,,DMT,,,,,
-,Test10,UCD,DMT Level 1,,DMT,,,,,
-,TEst11,UCC,DMT Level 1,,DMT,,,,,
-,Test12,UCD,DMT Level 1,,DMT,,,,,
-,Test13,MU,DMT Level 1,,DMT,,,,,
-,Test14,TCD,DMT Level 1,,DMT,,,,,
-,Test15,DCU,DMT Level 1,,DMT,,,,,
-,Test1,UCC,Tumbling Level 1,,TUM,,,,,
-,Test2,TCD,Tumbling Level 2,,TUM,,,,,
-,Test3,UCC,Tumbling Level 3,,TUM,,,,,
-,Test4,TCD,Tumbling Level 4,,TUM,,,,,
+10134,Derbiled Áed,DCU,Novice Women,20,TRI,A,,0,1.0,1
+10304,Anwar Fateh,MU,Novice Men,12,TRI,,,0,1.0,1
+10403,Karpos Pankratios,QUB,Intermediate Men,1,TRI,,,0,1.0,1
+10999,Sören Shiva,TCD,Intervanced Men,45,TRI,A,,0,,1
+11568,Yolotzin Thibaut,UCC,Intermediate Women,65,TRI,A,,0,,1
+11783,Aäron Óscar,UCD,Advanced Men,42,TRI,,,0,1.0,1
+11900,Brianne Hagano,UL,Intervanced Women,76,TRI,,,0,1.0,1
+12483,Désirée Godofredo,TCD,Advanced Women,10,TRI,A,,0,1.0,1
+12702,Bjoern Pierrick,UCC,Elite Men,23,TRI,A,,0,,1
+12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,0,1.0,1
+12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,1,1.0,1
+12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,0,1.0,1
+12999,Antwerp Flazgod,Exeter,Novice Men,2,TRI,,,0,,1
+13001,Antwerp Flazgod,DCU,Novice Men,3,TRI,A,,0,1.0,1
+13005,Derbiled Áed,DCU,DMT Level 1,33,DMT,,,0,,1
+13010,Anwar Fateh,MU,DMT Level 4,23,DMT,,,0,,1
+13020,Karpos Pankratios,QUB,DMT Level 6,29,DMT,,,0,1.0,1
+13025,Sören Shiva,TCD,DMT Level 2,21,DMT,,,0,1.0,1
+13029,Yolotzin Thibaut,UCC,DMT Level 5,14,DMT,,,0,1.0,1
+13040,Bjoern Pierrick,UCC,DMT Level 3,2,DMT,,,0,,1
+13045,Shoshanna Assol,UL,Tumbling Level 2,99,TUM,,,0,,1
+13048,Akma 2,TCD,Tumbling Level 4,14,TUM,,,1,2.0,1
+13052,Echo Longray,TCD,Tumbling Level 3,11,TUM,,,0,2.0,1
+13055,Antwerp Flazgod,Exeter,Tumbling Level 1,5,TUM,,,0,2.0,1
+13056,Lirana Willowshade,UCC,Intervanced Women,37,TRI,B,,1,,1
+13058,Clarence Acevedo,Durham,Novice Men,22,TRI,,,0,,1
+13063,Gregory Castro,Southampton,Advanced Men,55,TRI,,,0,,1
+13065,Mackenzie Burke,Glasgow,Intermediate Women,1,TRI,,,0,,1
+13066,Zach Rhodes,Nottingham,Novice Men,89,TRI,,,0,1.0,1
+13069,Oakley Hoover,Glas. Caledonian,Elite Men,33,TRI,,,0,,1
+13080,Sasha Donaldson,Dundee,Intervanced Women,92,TRI,,,0,,1
+13081,Clementine Torres,Edinburgh,Intermediate Women,24,TRI,,,0,,1
+13099,Anika Johnson,Aberdeen,Elite-Pro Women,11,TRI,,,0,3.0,1
+13112,Ava Tapia,UCC,Novice Women,62,TRI,B,,0,,1
+13124,Kristen Mcgrath,Stirling,Novice Women,88,TRI,,,0,,1
+13129,Libby Bullock,UL,Advanced Women,19,TRI,,,0,,1
+13144,Amanda Eaton,QUB,Intervanced Women,5,TRI,,,0,,1
+13189,Kiera Paul,Bath,Intermediate Women,79,TRI,,,0,,1
+13192,Luke Vargas,TCD,Intermediate Men,38,TRI,,,0,2.0,1
+13195,Maggie Matthews,Bristol,Intermediate Women,26,TRI,,,1,1.0,1
+13198,Sinéad Mathis,Glas. Caledonian,Advanced Women,40,TRI,,,0,1.0,1
+13203,Sandra Burke,TCD,Intervanced Women,34,TRI,,,0,,1
+13208,Leyla Dickson,Leeds,Novice Women,91,TRI,,,0,,1
+13211,Kieran Hart,UCD,Elite Men,56,TRI,,,0,,1
+13212,Kaitlyn Hart,UCD,Elite Women,6,TRI,,,0,,1
+13215,Bianca Duke,Hull,Intermediate Women,13,TRI,,,0,2.0,1
+13219,Clarence Acevedo,Durham,DMT Level 1,48,DMT,,,0,,1
+13333,Mackenzie Burke,Glasgow,DMT Level 2,58,DMT,,,0,,1
+13334,Mackenzie Burke,Glasgow,Tumbling Level 1,8,TUM,,,0,,1
+13340,Oakley Hoover,Glas. Caledonian,Tumbling Level 4,20,TUM,,,0,1.0,1
+13342,Anika Johnson,Aberdeen,DMT Level 5,10,DMT,,,0,1.0,1
+13351,Ava Tapia,UCC,Tumbling Level 1,2,TUM,,,0,2.0,1
+13355,Kristen Mcgrath,Stirling,Tumbling Level 1,3,TUM,,,0,1.0,1
+13358,Luke Vargas,TCD,DMT Level 1,1,DMT,,,0,,1
+13360,Sinéad Mathis,Glas. Caledonian,Tumbling Level 3,22,TUM,,,0,,1
+13361,Sandra Burke,TCD,Tumbling Level 2,18,TUM,,,0,3.0,1
+13362,Leyla Dickson,Leeds,Tumbling Level 1,32,TUM,,,0,1.0,1
+13364,Kieran Hart,UCD,DMT Level 6,6,DMT,,,0,1.0,1
+13365,Kaitlyn Hart,UCD,DMT Level 6,7,DMT,,,0,,1
+13367,Bianca Duke,Hull,DMT Level 2,4,DMT,,,0,,1
+13369,Bianca Duke,Hull,Tumbling Level 1,12,TUM,,,0,2.0,1
+13373,Antwerp Flazgod &  Derbiled Áed,DCU,Synchro Level 1,34,TRS,,,0,,1
+13375,Sören Shiva & Luke Vargas,TCD,Synchro Level 1,21,TRS,,,0,,1
+13379,Sören Shiva & Sandra Burke,TCD,Synchro Level 2,93,TRS,,,0,1.0,1
+13381,Kaitlyn Hart & Kieran Hart,UCD,Synchro Level 3,78,TRS,,,0,1.0,1
+13385,Akma 2 & Echo Longray,TCD,Synchro Level 3,8,TRS,,,1,1.0,1
+13389,Lirana Willowshade & Brianne Hagano (UL),UCC,Synchro Level 2,11,TRS,,,1,,1
+13390,Sinéad Mathis & Gregory Castro (Southhampton),Glas. Caledonian,Synchro Level 2,23,TRS,,,0,1.0,1
+13392,Bjoern Pierrick & Shoshanna Assol (UL),UCC,Synchro Level 3,63,TRS,,,0,1.0,1
+13393,Leyla Dickson & Antwerp Flazgod (Exeter),Leeds,Synchro Level 1,31,TRS,,,0,,1
+13395,Kristen Mcgrath & Karpos Pankratios (QUB),Stirling,Synchro Level 1,20,TRS,,,0,2.0,1
+13397,Clementine Torres & Mackenzie Burke (Glasgow),Edinburgh,Synchro Level 1,15,TRS,,,0,3.0,1
+13399,Fuzzcan Droopyton,UCD,Intermediate Men,16,TRI,,,0,1.0,1
+13401,Francis Knox,Hull,Intervanced Men,9,TRI,,,0,,1
+13402,Bryn Lindsey,DCU,Novice Women,68,TRI,A,,0,,1
+13408,Freddie Kaufman,Hull,Novice Men,21,TRI,,,0,,1
+13422,Mckenzie Crosby,QUB,Intermediate Women,17,TRI,,,0,,1
+13429,Phoenix Hayden,DCU,Intervanced Women,41,TRI,A,,0,,1
+13441,Ty Nixon,Aberdeen,Intermediate Men,31,TRI,,,0,,1
+13473,Lennon Ferrell,UCD,Advanced Men,83,TRI,,,0,,1
+13479,Katerina Molina,TCD,Elite-Pro Women,6,TRI,,,0,1.0,1
+13498,Maya Solis,Glasgow,Novice Women,17,TRI,,,0,,1
+13503,Jude Hatfield,Dundee,Novice Men,13,TRI,,,0,,1
+13521,Jayden Conway,Glasgow,Novice Men,57,TRI,,,0,,1
+13522,Aidan Navarro,UCD,Novice Men,38,TRI,,,0,,1
+13528,Jaime Salas,UCD,Intermediate Women,82,TRI,,,0,,1
+13534,Ciaran O'Driscoll,Bath,Intervanced Men,10,TRI,,,0,,1
+13539,Ashleigh Small,Nottingham,Intervanced Women,25,TRI,,,0,,1
+13556,Siobhán Clay,UL,Elite Women,11,TRI,,,0,,1
+13590,Humza Hall,TCD,Intermediate Men,48,TRI,,,0,,1
+13633,Ellie Copeland,UCC,Intermediate Women,20,TRI,A,,0,,1
+13679,Kallum Finch,Stirling,Elite Men,91,TRI,,,0,2.0,1
+13691,Moniman Fudgebean,Bath,Elite-Pro Men,5,TRI,,,0,,1
+13698,Nina Sherman,UCD,Novice Women,21,TRI,,,0,,1
+13712,Fatma Gray,TCD,Novice Women,84,TRI,,,0,,1
+13719,Alexandra Hamilton,UCC,Advanced Women,48,TRI,A,,0,1.0,1
+13725,Kamal Cruz,UCC,Intermediate Men,44,TRI,B,,0,,1
+13734,Tanisha Riggs,UCC,Elite Women,18,TRI,B,,0,,1
+13754,Eliza Jefferson,UL,Elite Women,21,TRI,,,0,1.0,1
+13756,Sniffmoo Piebean,QUB,Intervanced Women,2,TRI,,,0,1.0,1
+13760,Arun Montes,Hull,Elite Men,41,TRI,,,0,,1
+13762,Marcus Hehan,UL,DMT Level 6,33,DMT,,,0,,1
+13766,Fuzzcan Droopyton,UCD,DMT Level 2,21,DMT,,,0,,1
+13794,Ty Nixon,Aberdeen,Tumbling Level 2,2,TUM,,,0,,1
+13811,Lennon Ferrell,UCD,DMT Level 4,89,DMT,,,0,3.0,1
+13819,Siobhán Clay,UL,DMT Level 5,43,DMT,,,0,1.0,1
+13842,Siobhán Clay,UL,Tumbling Level 4,63,TUM,,,0,1.0,1
+13855,Ashleigh Small,Nottingham,Tumbling Level 2,21,TUM,,,0,1.0,1
+13862,Tanisha Riggs,UCC,DMT Level 6,55,DMT,,,0,,1
+13868,Eliza Jefferson,UL,DMT Level 5,24,DMT,,,0,2.0,1
+13881,Sniffmoo Piebean,QUB,Tumbling Level 2,76,TUM,,,0,1.0,1
+13889,Arun Montes,Hull,Tumbling Level 1,91,TUM,,,0,1.0,1
+13896,Alexandra Hamilton,UCD,DMT Level 3,6,DMT,,,0,1.0,1
+13900,Francis Know & Freddie Kaufman,Hull,Synchro Level 1,3,TRS,,,0,3.0,1
+13905,Maya Solis & Jayden Conway,Glasgow,Synchro Level 1,5,TRS,,,0,2.0,1
+13941,Tanisha Riggs & Eliza Jefferson (UL),UCC,Synchro Level 3,22,TRS,,,0,2.0,1
+14393,Sniffmoo Piebean & Kamal Cruz (UCC),QUB,Synchro Level 1,98,TRS,,,0,1.0,1
