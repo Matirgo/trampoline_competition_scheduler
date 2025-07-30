@@ -1,0 +1,118 @@
+﻿ID,Name,Club,ClassName,StartOrder,Discipline,Team,Team_Category,Guest,flight,photo_consent
+13522,Aidan Navarro,UCD,Novice Men,38,TRI,,,False,1,True
+13001,Antwerp Flazgod,DCU,Novice Men,3,TRI,A,,False,1,True
+12999,Antwerp Flazgod,Exeter,Novice Men,2,TRI,,,False,1,True
+10304,Anwar Fateh,MU,Novice Men,12,TRI,,,False,1,True
+13058,Clarence Acevedo,Durham,Novice Men,22,TRI,,,False,1,True
+13408,Freddie Kaufman,Hull,Novice Men,21,TRI,,,False,1,True
+13521,Jayden Conway,Glasgow,Novice Men,57,TRI,,,False,1,True
+13503,Jude Hatfield,Dundee,Novice Men,13,TRI,,,False,1,True
+13066,Zach Rhodes,Nottingham,Novice Men,89,TRI,,,False,1,True
+13112,Ava Tapia,UCC,Novice Women,62,TRI,B,,False,1,True
+13402,Bryn Lindsey,DCU,Novice Women,68,TRI,A,,False,1,True
+10134,Derbiled Áed,DCU,Novice Women,20,TRI,A,,False,1,True
+13712,Fatma Gray,TCD,Novice Women,84,TRI,,,False,1,True
+13124,Kristen Mcgrath,Stirling,Novice Women,88,TRI,,,False,1,True
+13208,Leyla Dickson,Leeds,Novice Women,91,TRI,,,False,1,True
+13498,Maya Solis,Glasgow,Novice Women,17,TRI,,,False,1,True
+13698,Nina Sherman,UCD,Novice Women,21,TRI,,,False,1,True
+13399,Fuzzcan Droopyton,UCD,Intermediate Men,16,TRI,,,False,1,True
+13590,Humza Hall,TCD,Intermediate Men,48,TRI,,,False,1,True
+13725,Kamal Cruz,UCC,Intermediate Men,44,TRI,B,,False,1,True
+10403,Karpos Pankratios,QUB,Intermediate Men,1,TRI,,,False,1,True
+13192,Luke Vargas,TCD,Intermediate Men,38,TRI,,,False,1,True
+13441,Ty Nixon,Aberdeen,Intermediate Men,31,TRI,,,False,1,True
+13215,Bianca Duke,Hull,Intermediate Women,13,TRI,,,False,1,True
+13081,Clementine Torres,Edinburgh,Intermediate Women,24,TRI,,,False,1,True
+13633,Ellie Copeland,UCC,Intermediate Women,20,TRI,A,,False,1,True
+13528,Jaime Salas,UCD,Intermediate Women,82,TRI,,,False,1,True
+13189,Kiera Paul,Bath,Intermediate Women,79,TRI,,,False,1,True
+13065,Mackenzie Burke,Glasgow,Intermediate Women,1,TRI,,,False,1,True
+13195,Maggie Matthews,Bristol,Intermediate Women,26,TRI,,,True,1,True
+13422,Mckenzie Crosby,QUB,Intermediate Women,17,TRI,,,False,1,True
+11568,Yolotzin Thibaut,UCC,Intermediate Women,65,TRI,A,,False,1,True
+13534,Ciaran O'Driscoll,Bath,Intervanced Men,10,TRI,,,False,1,True
+13401,Francis Knox,Hull,Intervanced Men,9,TRI,,,False,1,True
+10999,Sören Shiva,TCD,Intervanced Men,45,TRI,A,,False,1,True
+13144,Amanda Eaton,QUB,Intervanced Women,5,TRI,,,False,1,True
+13539,Ashleigh Small,Nottingham,Intervanced Women,25,TRI,,,False,1,True
+11900,Brianne Hagano,UL,Intervanced Women,76,TRI,,,False,1,True
+13056,Lirana Willowshade,UCC,Intervanced Women,37,TRI,B,,True,1,True
+13429,Phoenix Hayden,DCU,Intervanced Women,41,TRI,A,,False,1,True
+13203,Sandra Burke,TCD,Intervanced Women,34,TRI,,,False,1,True
+13080,Sasha Donaldson,Dundee,Intervanced Women,92,TRI,,,False,1,True
+13756,Sniffmoo Piebean,QUB,Intervanced Women,2,TRI,,,False,1,True
+11783,Aäron Óscar,UCD,Advanced Men,42,TRI,,,False,1,True
+13063,Gregory Castro,Southampton,Advanced Men,55,TRI,,,False,1,True
+13473,Lennon Ferrell,UCD,Advanced Men,83,TRI,,,False,1,True
+13719,Alexandra Hamilton,UCC,Advanced Women,48,TRI,A,,False,1,True
+12483,Désirée Godofredo,TCD,Advanced Women,10,TRI,A,,False,1,True
+13129,Libby Bullock,UL,Advanced Women,19,TRI,,,False,1,True
+13198,Sinéad Mathis,Glas. Caledonian,Advanced Women,40,TRI,,,False,1,True
+13760,Arun Montes,Hull,Elite Men,41,TRI,,,False,1,True
+12702,Bjoern Pierrick,UCC,Elite Men,23,TRI,A,,False,1,True
+13679,Kallum Finch,Stirling,Elite Men,91,TRI,,,False,1,True
+13211,Kieran Hart,UCD,Elite Men,56,TRI,,,False,1,True
+13069,Oakley Hoover,Glas. Caledonian,Elite Men,33,TRI,,,False,1,True
+13754,Eliza Jefferson,UL,Elite Women,21,TRI,,,False,1,True
+13212,Kaitlyn Hart,UCD,Elite Women,6,TRI,,,False,1,True
+12881,Shoshanna Assol,UL,Elite Women,32,TRI,,,False,1,True
+13556,Siobhán Clay,UL,Elite Women,11,TRI,,,False,1,True
+13734,Tanisha Riggs,UCC,Elite Women,18,TRI,B,,False,1,True
+12969,Akma 2,TCD,Elite-Pro Men,69,TRI,A,,True,1,True
+13691,Moniman Fudgebean,Bath,Elite-Pro Men,5,TRI,,,False,1,True
+13099,Anika Johnson,Aberdeen,Elite-Pro Women,11,TRI,,,False,1,True
+12977,Echo Longray,TCD,Elite-Pro Women,99,TRI,A,,False,1,True
+13479,Katerina Molina,TCD,Elite-Pro Women,6,TRI,,,False,1,True
+13219,Clarence Acevedo,Durham,DMT Level 1,48,DMT,,,False,1,True
+13005,Derbiled Áed,DCU,DMT Level 1,33,DMT,,,False,1,True
+13358,Luke Vargas,TCD,DMT Level 1,1,DMT,,,False,1,True
+13367,Bianca Duke,Hull,DMT Level 2,4,DMT,,,False,1,True
+13766,Fuzzcan Droopyton,UCD,DMT Level 2,21,DMT,,,False,1,True
+13333,Mackenzie Burke,Glasgow,DMT Level 2,58,DMT,,,False,1,True
+13025,Sören Shiva,TCD,DMT Level 2,21,DMT,,,False,1,True
+13896,Alexandra Hamilton,UCD,DMT Level 3,6,DMT,,,False,1,True
+13040,Bjoern Pierrick,UCC,DMT Level 3,2,DMT,,,False,1,True
+13010,Anwar Fateh,MU,DMT Level 4,23,DMT,,,False,1,True
+13811,Lennon Ferrell,UCD,DMT Level 4,89,DMT,,,False,1,True
+13342,Anika Johnson,Aberdeen,DMT Level 5,10,DMT,,,False,1,True
+13868,Eliza Jefferson,UL,DMT Level 5,24,DMT,,,False,1,True
+13819,Siobhán Clay,UL,DMT Level 5,43,DMT,,,False,1,True
+13029,Yolotzin Thibaut,UCC,DMT Level 5,14,DMT,,,False,1,True
+13365,Kaitlyn Hart,UCD,DMT Level 6,7,DMT,,,False,1,True
+13020,Karpos Pankratios,QUB,DMT Level 6,29,DMT,,,False,1,True
+13364,Kieran Hart,UCD,DMT Level 6,6,DMT,,,False,1,True
+13762,Marcus Hehan,UL,DMT Level 6,33,DMT,,,False,1,True
+13862,Tanisha Riggs,UCC,DMT Level 6,55,DMT,,,False,1,True
+13055,Antwerp Flazgod,Exeter,Tumbling Level 1,5,TUM,,,False,1,True
+13889,Arun Montes,Hull,Tumbling Level 1,91,TUM,,,False,1,True
+13351,Ava Tapia,UCC,Tumbling Level 1,2,TUM,,,False,1,True
+13369,Bianca Duke,Hull,Tumbling Level 1,12,TUM,,,False,1,True
+13355,Kristen Mcgrath,Stirling,Tumbling Level 1,3,TUM,,,False,1,True
+13362,Leyla Dickson,Leeds,Tumbling Level 1,32,TUM,,,False,1,True
+13334,Mackenzie Burke,Glasgow,Tumbling Level 1,8,TUM,,,False,1,True
+13855,Ashleigh Small,Nottingham,Tumbling Level 2,21,TUM,,,False,1,True
+13361,Sandra Burke,TCD,Tumbling Level 2,18,TUM,,,False,1,True
+13045,Shoshanna Assol,UL,Tumbling Level 2,99,TUM,,,False,1,True
+13881,Sniffmoo Piebean,QUB,Tumbling Level 2,76,TUM,,,False,1,True
+13794,Ty Nixon,Aberdeen,Tumbling Level 2,2,TUM,,,False,1,True
+13052,Echo Longray,TCD,Tumbling Level 3,11,TUM,,,False,1,True
+13360,Sinéad Mathis,Glas. Caledonian,Tumbling Level 3,22,TUM,,,False,1,True
+13048,Akma 2,TCD,Tumbling Level 4,14,TUM,,,True,1,True
+13340,Oakley Hoover,Glas. Caledonian,Tumbling Level 4,20,TUM,,,False,1,True
+13842,Siobhán Clay,UL,Tumbling Level 4,63,TUM,,,False,1,True
+13373,Antwerp Flazgod &  Derbiled Áed,DCU,Synchro Level 1,34,TRS,,,False,1,True
+13397,Clementine Torres & Mackenzie Burke (Glasgow),Edinburgh,Synchro Level 1,15,TRS,,,False,1,True
+13900,Francis Know & Freddie Kaufman,Hull,Synchro Level 1,3,TRS,,,False,1,True
+13395,Kristen Mcgrath & Karpos Pankratios (QUB),Stirling,Synchro Level 1,20,TRS,,,False,1,True
+13393,Leyla Dickson & Antwerp Flazgod (Exeter),Leeds,Synchro Level 1,31,TRS,,,False,1,True
+13905,Maya Solis & Jayden Conway,Glasgow,Synchro Level 1,5,TRS,,,False,1,True
+14393,Sniffmoo Piebean & Kamal Cruz (UCC),QUB,Synchro Level 1,98,TRS,,,False,1,True
+13375,Sören Shiva & Luke Vargas,TCD,Synchro Level 1,21,TRS,,,False,1,True
+13389,Lirana Willowshade & Brianne Hagano (UL),UCC,Synchro Level 2,11,TRS,,,True,1,True
+13390,Sinéad Mathis & Gregory Castro (Southhampton),Glas. Caledonian,Synchro Level 2,23,TRS,,,False,1,True
+13379,Sören Shiva & Sandra Burke,TCD,Synchro Level 2,93,TRS,,,False,1,True
+13385,Akma 2 & Echo Longray,TCD,Synchro Level 3,8,TRS,,,True,1,True
+13392,Bjoern Pierrick & Shoshanna Assol (UL),UCC,Synchro Level 3,63,TRS,,,False,1,True
+13381,Kaitlyn Hart & Kieran Hart,UCD,Synchro Level 3,78,TRS,,,False,1,True
+13941,Tanisha Riggs & Eliza Jefferson (UL),UCC,Synchro Level 3,22,TRS,,,False,1,True
