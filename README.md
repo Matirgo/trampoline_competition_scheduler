@@ -13,18 +13,12 @@ The current version of the programme is capable of doing the following operation
   - There are some minor aesthetic issues with border lines for flights, but the logic is sound.
 
 ### Next Major Steps
-The data is not being merged with judging data yet, but the competitor data itself is ready to be scheduled.
-- Import data from a .csv file.
-- Organise competitors by individual trampoline, DMT, tumbling, and synchronised trampoline.
-- Export this organised list in both .csv format, and also in a stylised .xlsx (Excel) format.
-
-### Next Major Steps
 - The programme currently does not take into account judges and what they are able or not able to judge.
   - The dataset must be updated to include judging information.
 - There is no scheduling logic put in place yet.
 
 ## Future
-Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc.
+Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc. Take into account medal requirements too.
 
 ## Known Issues
 - Flight formatting
