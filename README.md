@@ -13,6 +13,7 @@ The current version of the programme is capable of doing the following operation
   - There are some minor aesthetic issues with border lines for flights, but the logic is sound.
 
 ### Next Major Steps
+- Provide a full breakdown of what the programme can do, as well as future features to be implemented.
 - The programme currently does not take into account judges and what they are able or not able to judge.
   - The dataset must be updated to include judging information.
 - There is no scheduling logic put in place yet.
