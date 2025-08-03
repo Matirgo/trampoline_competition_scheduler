@@ -17,6 +17,7 @@ The current version of the programme is capable of doing the following operation
 - The programme currently does not take into account judges and what they are able or not able to judge.
   - The dataset must be updated to include judging information.
 - There is no scheduling logic put in place yet.
+- Include a required medal counter!
 
 ## Future
 Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc. Take into account medal requirements too.
