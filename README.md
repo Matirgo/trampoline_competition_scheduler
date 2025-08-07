@@ -9,15 +9,16 @@ The current version of the programme is capable of doing the following operation
 - Organise competitors by discipline (TRA, DMT, TUM, and TRS), level within the discipline, name, and club.
 - Perform flight calculations based on the number of competitors in each level and category.
   - There is no functionality to merge multiple categories together just yet.
+  - I.e. There are only eight competitors in the Novice level across both categoires, so Novice Men and Novice Women are combined.
 - Export this organised list into a stylised .xlsx Excel format.
   - There are some minor aesthetic issues with border lines for flights, but the logic is sound.
 
 ### Next Major Steps
-- Provide a full breakdown of what the programme can do, as well as future features to be implemented.
-- The programme currently does not take into account judges and what they are able or not able to judge.
+- **WIP - Matas:** Provide a full breakdown of what the programme can do, as well as future features to be implemented.
+- **WIP - Matas:** The programme currently does not take into account judges and what they are able or not able to judge.
   - The dataset must be updated to include judging information.
-- There is no scheduling logic put in place yet.
-- Include a required medal counter!
+- **Not started - Matas:** There is no scheduling logic put in place yet.
+- **Not started - Anyone:** Include a required medal counter!
 
 ## Future
 Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc. Take into account medal requirements too.
