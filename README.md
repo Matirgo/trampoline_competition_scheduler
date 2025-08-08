@@ -20,6 +20,13 @@ The current version of the programme is capable of doing the following operation
 - **Not started - Matas:** There is no scheduling logic put in place yet.
 - **Not started - Anyone:** Include a required medal counter!
 
+#### Frontend and Backend
+The application may work well with a frontend or a backend. Users may appreciate such a display as opposed to one that is run from the command line, or from an IDE. With this in mind, there are a variety of other tasks that may be done.
+- **Not started - Anyone:** Front end design.
+  - A sample designed may be mocked up for the website, be that coded up or done through Figma or another similar tool.
+- **Not started - Anyone:** Back end functionality.
+  - The current software is able to perform flight scheduling. Code can be added so that any valid .xls file can be uploaded and output should be returned to the user.
+
 ## Future
 Future versions should include scheduling algorithms, error handling, and customisable inputs such as length per competitor/flight, number of available panels, etc, time constraints or blocked off sections of time, etc. Take into account medal requirements too.
 
